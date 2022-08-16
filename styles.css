@@ -1,0 +1,9 @@
+*{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1, p, h3, li{
+    color: teal;
+}
+
